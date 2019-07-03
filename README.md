@@ -6,6 +6,14 @@
 
 [![Build Status](https://travis-ci.org/marbuthnott/acebook-d-railed.svg?branch=master)](https://travis-ci.org/marbuthnott/acebook-d-railed)
 
+## INTRODUCTION
+
+The aim of this project was to use high quality processes to build a ruby on rails full stack web application within a team.
+
+The requirement was to build a facebook clone where a user can signup, write, update, and delete posts, and view posts from all users. In addition to the web application's user stories we were required to approach the build with the Agile project management methodology.
+
+The project is provided by Makers Academy as week eight's group challenge; this provides the learning base for Ruby on Rails and the Agile project management process.
+
 ## SCREENSHOTS
 
 ![Signup Page](images/Signup.png)
@@ -14,13 +22,6 @@
 
 ![Wall](images/wall.png)
 
-## INTRODUCTION
-
-The aim of this project was to use high quality processes to build a ruby on rails full stack web application within a team.
-
-The requirement was to build a facebook clone where a user can signup, write, update, and delete posts, and view posts from all users. In addition to the web application's user stories we were required to approach the build with the Agile project management methodology.
-
-The project is provided by Makers Academy as week eight's group challenge; this provides the learning base for Ruby on Rails and the Agile project management process.
 
 ## GETTING STARTED
 
