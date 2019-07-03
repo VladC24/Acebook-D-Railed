@@ -6,6 +6,14 @@
 
 [![Build Status](https://travis-ci.org/marbuthnott/acebook-d-railed.svg?branch=master)](https://travis-ci.org/marbuthnott/acebook-d-railed)
 
+## SCREENSHOTS
+
+![Signup Page](images/Signup.png)
+
+![New Message](images/new_message.png)
+
+![Wall](images/wall.png)
+
 ## INTRODUCTION
 
 The aim of this project was to use high quality processes to build a ruby on rails full stack web application within a team.
